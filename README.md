@@ -7,8 +7,8 @@
 
 # Student Details
 
-- **Student Name:** Srinath
-- **Program:** M.Tech (WILP)
+- **Student Name:** Srinath Mavilla
+- **Program:** M.Tech (AIML)
 - **Course:** Machine Learning
 - **Assignment:** Assignment-2
 - **Dataset:** Heart Disease Dataset (Kaggle)
@@ -69,11 +69,7 @@ The dataset contains patient medical records collected from healthcare instituti
 
 GitHub Repository
 
-**https://github.com/yourusername/Heart-Disease-Prediction**
-
-*(Replace with your GitHub repository URL.)*
-
----
+**(https://github.com/2025ac05063-wlip/ML_Assignment_2.git)**
 
 ## Streamlit Deployment
 
