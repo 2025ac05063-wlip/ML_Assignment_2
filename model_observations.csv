@@ -1,0 +1,6 @@
+Model,Observation
+Logistic Regression,Good baseline model. Performs well on linearly separable data.
+Decision Tree,Easy to interpret but can overfit without pruning.
+K-Nearest Neighbors,Distance-based classifier. Requires scaled features.
+Gaussian Naive Bayes,Fast probabilistic classifier assuming feature independence.
+Random Forest,Ensemble model with high accuracy and low overfitting.

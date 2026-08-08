@@ -1,0 +1,6 @@
+Rank,Model,Accuracy,AUC,Precision,Recall,F1,MCC
+1,Gaussian Naive Bayes,0.8197,0.8853,0.7895,0.9091,0.8451,0.641
+2,Decision Tree,0.8197,0.8236,0.75,1.0,0.8571,0.6748
+3,Random Forest,0.8033,0.8864,0.7561,0.9394,0.8378,0.6181
+4,K-Nearest Neighbors,0.8033,0.8674,0.7692,0.9091,0.8333,0.6098
+5,Logistic Regression,0.7869,0.8647,0.7632,0.8788,0.8169,0.5731
