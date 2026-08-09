@@ -69,11 +69,11 @@ The dataset contains patient medical records collected from healthcare instituti
 
 GitHub Repository
 
-**(https://github.com/2025ac05063-wlip/ML_Assignment_2.git)**
+**https://github.com/2025ac05063-wlip/ML_Assignment_2.git**
 
 ## Streamlit Deployment
 
-**https://your-app-name.streamlit.app**
+**https://c8oqveqcylhw2ex3stpfgb.streamlit.app/**
 
 *(Replace with your deployed Streamlit application URL.)*
 
